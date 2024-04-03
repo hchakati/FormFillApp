@@ -5,7 +5,7 @@
     <hr>
     <br>
     
-    <label for="Nname"><b>Email</b></label>
+    <label for="Nname"><b>Nickname</b></label>
     <input type="text" placeholder="Enter Nname" name="Nname" id="Nname" required>
     <br>
 

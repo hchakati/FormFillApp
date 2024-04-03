@@ -5,6 +5,10 @@
     <hr>
     <br>
     
+    <label for="Nname"><b>Email</b></label>
+    <input type="text" placeholder="Enter Nname" name="Nname" id="Nname" required>
+    <br>
+
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>

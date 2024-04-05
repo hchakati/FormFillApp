@@ -5,8 +5,8 @@
     <hr>
     <br>
     
-    <label for="Nickname"><b>Nickname</b></label>
-    <input type="text" placeholder="Enter Nname" name="Nname" id="Nname" required>
+    <label for="Fathername"><b>Nickname</b></label>
+    <input type="text" placeholder="Fathername" name="Fathername" id="Fathername" required>
     <br>
 
     <label for="MotherName"><b>Mother Name</b></label>

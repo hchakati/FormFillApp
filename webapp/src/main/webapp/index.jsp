@@ -5,7 +5,7 @@
     <hr>
     <br>
     
-    <label for="Fathername"><b>Nickname</b></label>
+    <label for="Fathername"><b>Fathername</b></label>
     <input type="text" placeholder="Fathername" name="Fathername" id="Fathername" required>
     <br>
 

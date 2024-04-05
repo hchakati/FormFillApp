@@ -5,8 +5,12 @@
     <hr>
     <br>
     
-    <label for="Nname"><b>Nickname</b></label>
+    <label for="Nickname"><b>Nickname</b></label>
     <input type="text" placeholder="Enter Nname" name="Nname" id="Nname" required>
+    <br>
+
+    <label for="MotherName"><b>Mother Name</b></label>
+    <input type="text" placeholder="MotherName" name="MotherName" id="MotherName" required>
     <br>
 
     <label for="name"><b>Name</b></label>

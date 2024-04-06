@@ -4,9 +4,13 @@
     <p>Please fill in this form</p>
     <hr>
     <br>
-    
-    <label for="Fname"><b>Fname</b></label>
-    <input type="text" placeholder="Fname" name="Fname" id="name" required>
+
+     <label for="brother"><b>brother</b></label>
+    <input type="text" placeholder="brother" name="brother" id="brother" required>
+    <br>
+
+    <label for="Father"><b>Fname</b></label>
+    <input type="text" placeholder="FFather" name="Father" id="Father" required>
     <br>
 
     <label for="MotherName"><b>Mother Name</b></label>

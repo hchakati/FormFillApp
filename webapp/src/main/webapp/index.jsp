@@ -10,7 +10,7 @@
     <br>
 
     <label for="Father"><b>Fname</b></label>
-    <input type="text" placeholder="FFather" name="Father" id="Father" required>
+    <input type="text" placeholder="Father" name="Father" id="Father" required>
     <br>
 
     <label for="MotherName"><b>Mother Name</b></label>
